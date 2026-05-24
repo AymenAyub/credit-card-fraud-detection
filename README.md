@@ -52,7 +52,9 @@ Logistic Regression
 
 ## Dataset
 
-Credit Card Transactions Dataset
+The dataset used in this project can be accessed here:
+
+Kaggle Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Target Variable:
 
@@ -65,3 +67,5 @@ Target Variable:
 - Try Random Forest and XGBoost
 - Hyperparameter tuning
 - Deploy as a web application
+
+Note: Dataset file is not included in this repository due to size considerations. Please download it from the Kaggle link above.
